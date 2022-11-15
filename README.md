@@ -12,4 +12,3 @@ After processing phase, if input is bigger. The program still needs some time to
 
 # Output:
 Given in the file named Knapsack.docs
-https://github.com/ZeeshanKhalid2k01/Knapsack-Problem/blob/93e103d2fb1cf2e0a7d29bdf8e3e922beb304bc1/1.jpeg
