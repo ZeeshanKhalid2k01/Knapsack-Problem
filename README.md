@@ -11,5 +11,4 @@ Because this program does alot of Binary comparisons, therefore the program goes
 After processing phase, if input is bigger. The program still needs some time to generate Output
 
 # Output:
-
- 
+Given in the file named Knapsack.docs
